@@ -20,6 +20,14 @@ STM8L低功耗低成本单片机，拥有全面的产品线和各种规格
 - [资源](src/)
 - [工程](project/)
 
+### [收录型号](https://github.com/sochub/STM8L)
+
+- [STM8L0](https://github.com/sochub/STM8L0) 
+- [STM8L10](https://github.com/sochub/STM8L10) 
+- [STM8L15](https://github.com/sochub/STM8L15) 
+- [STM8L16](https://github.com/sochub/STM8L16) 
+
+
 ### [替代方案](https://github.com/sochub/STM8L)
 
 - [STM32L](https://github.com/sochub/STM32L)  

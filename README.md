@@ -1,15 +1,9 @@
-﻿# [COSMIC](https://github.com/SoCXin/COSMIC) 
+﻿# [STM8S_StdPeriph_Driver](https://github.com/SoCXin/COSMIC)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)  
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### 归属：[compiler](https://github.com/sochub/compiler) 
+#### 归属：[compiler](https://github.com/sochub/compiler)
 
-[COSMIC](https://github.com/SoCXin/COSMIC) STM8系列MCU的C编译环境COSMIC IDE---CXSTM8，它与ST公司的STVD工具无缝配合，支持STM8全系列芯片的编译调试。
+[STM8S_StdPeriph_Driver](https://github.com/SoCXin/COSMIC) 标准库文件 v2.3.0版本
 
-
-### [资源组成](https://github.com/SoCXin/COSMIC) 
-
-* [文档](docs/) 
-* [资源](src/) 
-
-###  [SoC芯平台](http://www.SoC.Xin) 
+###  [SoC芯平台](http://www.SoC.Xin)

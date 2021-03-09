@@ -1,7 +1,6 @@
-﻿# [STM8S_StdPeriph_Driver](https://github.com/SoCXin/STM8S_StdPeriph_Driver)
+﻿# [STM8S_StdPeriph_Driver](https://github.com/OS-Q/STM8S_StdPeriph_Driver)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-STM8S标准外设库 v2.3.0
+STM8S 标准外设库 v2.3.0
 
-###  [SoC芯平台](http://www.SoC.Xin)
+### [Q = (OpenSource & OperatingSystem) ](http://www.OS-Q.com)

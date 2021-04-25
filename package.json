@@ -1,0 +1,12 @@
+{
+  "name": "E14",
+  "version": "0.20301.181217",
+  "description": "Standard peripheral library for ST STM8S/A microcontrollers",
+  "keywords": [
+    "framework",
+    "hal",
+    "stm8",
+    "st"
+  ],
+  "homepage": "https://www.st.com/en/embedded-software/stsw-stm8069.html"
+}

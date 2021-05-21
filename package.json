@@ -1,7 +1,7 @@
 {
-  "name": "E131",
-  "version": "0.20301.181217",
-  "description": "Standard peripheral library for ST STM8S/A microcontrollers",
+  "name": "X131",
+  "version": "2.3.0",
+  "description": "Standard peripheral library for ST STM8S microcontrollers",
   "keywords": [
     "framework",
     "hal",

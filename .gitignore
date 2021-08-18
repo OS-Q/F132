@@ -16,7 +16,6 @@ LICENSE*
 !.github/*
 .piopm
 *.pdf
-Readme.md
 *.html
 *.chm
 stm8a*
